@@ -1,0 +1,9 @@
+
+/* Class = "IBUIButton"; normalTitle = "Hello World"; ObjectID = "4lM-ef-23b"; */
+"4lM-ef-23b.normalTitle" = "Hello World";
+
+/* Class = "IBUILabel"; text = "  Copyright (c) 2014 Germán L. Rojas Muñoz. All rights reserved."; ObjectID = "8ie-xW-0ye"; */
+"8ie-xW-0ye.text" = "  Copyright (c) 2014 Germán L. Rojas Muñoz. All rights reserved.";
+
+/* Class = "IBUILabel"; text = "Testing"; ObjectID = "DpD-Dc-WUh"; */
+"DpD-Dc-WUh.text" = "Testing";
